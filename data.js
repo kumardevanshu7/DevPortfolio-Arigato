@@ -12,7 +12,7 @@ const portfolioData = {
     roleSubtitle: "Web Developer + Freelancer + Content Creator",
     bio: "Full-Stack Web Developer, Social Media Manager & Content Creator. Founder of Arigato Devan (arigatodevan.com). I specialize in building offline-first Progressive Web Apps (PWAs), WordPress platforms, and modern web applications with React, Node.js, TypeScript, Firebase, MongoDB, and AI-driven media workflows.",
     avatarImage: "assets/my profile.webp",
-    resumeUrl: "https://drive.google.com/file/d/1A72Q6clodtnlKctjgr_l2C5cxCegCkq3/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/file/d/1RqXTbwnnro2Iim8H--zzlrhRfoGiHiap/view?usp=sharing",
     email: "kumardevanshu3001@gmail.com",
   },
 

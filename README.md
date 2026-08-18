@@ -1,6 +1,6 @@
 # Kumar Devanshu — Portfolio '26 × Arigato Devan
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-devanshu--portfolio--navy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devanshu-portfolio-navy.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-dev--portfolio--arigato.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-arigato.vercel.app/)
 [![Arigato Devan](https://img.shields.io/badge/Platform-arigatodevan.com-10B981?style=for-the-badge&logo=wordpress&logoColor=white)](https://arigatodevan.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-@arigatodevan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arigatodevan/)
 [![Superprofile](https://img.shields.io/badge/Superprofile-arigatodevan-6366F1?style=for-the-badge)](https://superprofile.bio/arigatodevan)
